@@ -3,7 +3,7 @@ My solutions to IUST's Computer Networks Laboratory, Spring 2023, Dr. Rashidi.
 
 ## <img width="20" height="20" src="https://img.icons8.com/external-kiranshastry-lineal-kiranshastry/64/41b883/external-idea-advertising-kiranshastry-lineal-kiranshastry-3.png" alt="introduction"/> Introduction
 - Description: An Introduction PDF file providing an overview of the Computer Networks Lab.
-- [Link to Introduction.pdf](https://github.com/lelnazrezaeel/Computer-Networks-Lab-IUST/blob/main/Installation.pdf)
+- [Link to Installation.pdf](https://github.com/lelnazrezaeel/Computer-Networks-Lab-IUST/blob/main/Installation.pdf)
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/test-passed.png" alt="test-passed"/> Final Exam
 - Description: The final exam materials.
